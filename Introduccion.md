@@ -1,1 +1,1 @@
-Soy Emily Perez y este es mi repositorio de tareas para la materia Tendencias en desarrollo de aplicaciones 
+Soy Emily Esther Perez Santana y este es mi repositorio de tareas para la materia Tendencias en desarrollo de aplicaciones 
