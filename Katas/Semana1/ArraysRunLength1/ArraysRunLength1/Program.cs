@@ -12,11 +12,7 @@ namespace ArraysRunLength1
             int[] pru = { 1, 2, 2, 3, 4, 4, 4, 5, 6 };
             string resul = Encoding(pru);
             Console.WriteLine(resul);
-            int[] des = Decoding(resul);
-            foreach(int i in des)
-            {
-                Console.WriteLine(i); 
-            }
+
 
         }
 
@@ -29,10 +25,10 @@ namespace ArraysRunLength1
                 num += (arr[0]).ToString() + ".";
             }
 
-            for(int j = 0; j < arr.Length - 1; j++)
+            for(int j = 0; j < arr.Length; j++)
             {
                 int count = 1; 
-                while(arr[j] == arr[j + 1])
+                while (j < arr.Length - 1 && arr[j] == arr[j + 1])
                 {
                     count ++;
                     j++;  
@@ -47,8 +43,7 @@ namespace ArraysRunLength1
                 
             }
 
-            num += "." + (arr.Last()).ToString();
-
+           
             return num;
         }
 

@@ -1,0 +1,16 @@
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.exe
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.deps.json
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.runtimeconfig.json
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.runtimeconfig.dev.json
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.dll
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ref\ArrayRunLength2.dll
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\bin\Debug\net5.0\ArrayRunLength2.pdb
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.csprojAssemblyReference.cache
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.AssemblyInfoInputs.cache
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.AssemblyInfo.cs
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.dll
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ref\ArrayRunLength2.dll
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.pdb
+C:\Users\Emily\Desktop\1. Tendencias\Tendencias en Desarrollo de Aplicaciones\Katas\Semana1\ArrayRunLength2\ArrayRunLength2\obj\Debug\net5.0\ArrayRunLength2.genruntimeconfig.cache
