@@ -1,11 +1,11 @@
-from main import check
+from main as m
 import pytest
 @pytest.mark.parametrize(
     "s1,s2, expected",
     [
         ("roma","amor", True),
         ("emily", "emyli", True), 
-        ("como", "hola", False), 
+        ("como", "hola", False), S
         ("calor", "lolo", True)
     ]
 )
